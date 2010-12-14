@@ -30,6 +30,7 @@ module Colored
     'clear'     => 0, 
     'bold'      => 1,
     'underline' => 4,
+    'blink'     => 5,
     'reversed'  => 7
   }
   
